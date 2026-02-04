@@ -1,7 +1,7 @@
 ---
 title: Maintenance Hours
 date: 2021-08-03T18:06:09.065Z
-description: Adjusted hours due to COVID-19
+description: ""
 alt: maintenance hours
 ---
 Oakhurst Dog Park will be closed a few hours for general maintenance and volunteer efforts on the following days:
